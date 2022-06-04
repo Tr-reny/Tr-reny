@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tr-reny&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-reny=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/username=Tr-reny&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
 
@@ -57,23 +57,5 @@ Here are some ideas to get you started:
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 <br />
 
-
-
-<!--
-**Tr-reny/Tr-reny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/Tr-reny/count.svg" alt ="Loading">
