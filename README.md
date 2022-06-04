@@ -15,7 +15,7 @@ frontend development from Nairobi, Kenya.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Swivt Technologies
+- 🔭 I’m currently working on Android, Technologies
 - 🌱 I’m currently learning Flutter & VueJS
 - 💬 Ask me about [here](https://github.com/Tr-reny/Tr-reny/issues)
 
