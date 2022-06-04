@@ -3,7 +3,7 @@
 <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a Full Stack Developer | Android Developer familiar with wide range of
+I'm a self thought Full Stack Developer | Android Developer familiar with wide range of
 programming utilities and languages. Knowledgeable of backend and
 frontend development from Nairobi, Kenya. 
 
@@ -11,18 +11,14 @@ frontend development from Nairobi, Kenya.
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website :yum: [renykipkoech.xyz](https://renykipkoech.xyz)
+- My Personal Website : [renykipkoech.xyz](https://renykipkoech.xyz)
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Swivt Technologies
 - 🌱 I’m currently learning Flutter & VueJS
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about [here](https://github.com/Tr-reny/Tr-reny/issues)
+
 
 ## ⚡ Technologies
 
@@ -46,6 +42,14 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal100&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
+
+
+
+
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 
 ### Languages and Tools
 
