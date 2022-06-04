@@ -37,15 +37,9 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tr-reny&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-reny&hide=TeX&layout=compact&theme=buefy&hide_border=true) 
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tr-reny&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-reny&hide=TeX&layout=compact&theme=buefy&hide_border=true) |
 
-
-
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
+![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
 ### Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" height="40px" />
