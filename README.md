@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
-
+<a
 <img align="center"
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Tr-reny&count_private=true&show_icons=true&include_all_commits=true)/>
 <img align="center"
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tr-reny&hide=TeX&layout=compact) />
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Tr-reny&color=green)
-
+</a>
 
 
 
