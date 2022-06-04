@@ -7,7 +7,7 @@ I'm a full-stack web-developer from Nairobi, Kenya.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@prajwal.iar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/prajwal.iar/)](https://instagram.com/prajwal.iar)
-[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:prajwal.iar@gmail.com)](mailto:prajwal.iar@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-prajwal.iar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rennykipkoech@gmail.com)](mailto:rennykipkoech@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prajwal100/)](https://www.linkedin.com/in/prajwal100/)
 [![Telegram Badge](https://img.shields.io/badge/-@prajwalrai-0088CC?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/Praajwal.iar/ "Contact on Telegram")
 
