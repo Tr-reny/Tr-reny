@@ -11,8 +11,8 @@ frontend development from Nairobi, Kenya.
 
 ### You can find my stuff here :leaves:
 
-- My Personal Website : [https://tr-reny.github.io](https://tr-reny.github.io/)
-[renykipkoech.xyz](https://renykipkoech.xyz) 
+- My Personal Website : [github](https://tr-reny.github.io/) |       
+[portfolio](https://renykipkoech.xyz) 
 
 - 🔭 I’m currently working on Android, Technologies
 - 🌱 I’m currently learning Flutter & VueJS
