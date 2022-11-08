@@ -15,7 +15,7 @@ frontend development from Nairobi, Kenya.
 [portfolio](https://renykipkoech.xyz) 
 
 - 🔭 I’m currently working on Android, Technologies
-- 🌱 I’m currently learning Flutter & VueJS
+- 🌱 I’m currently learning Flutter & python
 - 💬 Ask me about [here](https://github.com/Tr-reny/Tr-reny/issues)
 
 ## ⚡ Technologies
