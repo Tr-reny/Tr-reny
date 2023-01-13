@@ -36,7 +36,7 @@ frontend development from Nairobi, Kenya.
 ![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=flat-square&logo=photoshop)
 
 
-<div align="center">
+<div>
  
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Tr-reny&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=Tr-reny&hide=TeX&layout=compact&theme=buefy&hide_border=true"> 
