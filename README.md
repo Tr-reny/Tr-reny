@@ -9,12 +9,12 @@ frontend development from Nairobi, Kenya.
 
 
 
-### You can find my stuff here :leaves:
+### You can find my stuff here :leaves: <img align = "right" width = "200" src = "https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
 
 - My Personal Website : [github](https://tr-reny.github.io/) |       
 [portfolio](https://renykipkoech.xyz) 
 
-- 🔭 I’m currently working on Android, Technologies <img align = "right" width = "200" src = "https://cdn.dribbble.com/users/1603428/screenshots/4158705/mob-dev.gif">
+- 🔭 I’m currently working on Android, Technologies 
 - 🌱 I’m currently learning Flutter & python
 - 💬 Ask me about [here](https://github.com/Tr-reny/Tr-reny/issues) 
 
